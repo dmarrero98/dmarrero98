@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Science Major
 -----------------
+![mix-mob-tv-games](https://user-images.githubusercontent.com/113640192/217401417-9ca85104-b2a1-4eb5-9d07-d76dbed593d8.gif)
+
 
 I began to learn coding in Fall of 2022 and discovered a passion. This will eventually be my career, so I am relentlessly seeking out knowledge to sharpen my skills every day.
 
@@ -10,8 +12,6 @@ I began to learn coding in Fall of 2022 and discovered a passion. This will even
 * ✉️  You can contact me at [dmarrero98@gmail.com](mailto:dmarrero98@gmail.com)
 * 🧠  I'm learning implementation of Python data structures
 * 🤝  I'm open to collaborating on AI projects
- 
-![COOLGIF](https://user-images.githubusercontent.com/113640192/217397141-e608690c-ff1f-485f-8924-d20f3ebc8f5b.gif)
 
 ### Skills
 
