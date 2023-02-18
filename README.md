@@ -11,7 +11,7 @@ I began to learn coding in Fall of 2022 and discovered a passion. This will even
 * ✉️  You can contact me at [dmarrero98@gmail.com](mailto:dmarrero98@gmail.com)
 * 🧠  I'm learning implementation of Python data structures and algorithims
 * 🤝  I'm open to collaborating on AI projects
-* 🚀  I'm currently working on a PACMAN game
+* 🚀  I'm currently working on developing a pygame
 
 ### Skills
 
