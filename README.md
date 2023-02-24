@@ -13,6 +13,10 @@ I began to learn coding in Fall of 2022 and discovered a passion. This will even
 * 🤝  I'm open to collaborating on AI projects with python
 * 🚀  I'm currently working on developing a pygame
 
+![SpaceArena_screenshot](https://user-images.githubusercontent.com/113640192/221083178-a43fb9a9-659a-4d6c-88ce-6522df9944f1.png)
+
+
+
 ### Skills
 
 <p align="left">
