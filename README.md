@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Science Major
 -----------------
-Air Force Vet actively pursuing a CS Major!
+Air Force Vet actively pursuing a CS Major! Started to teach myself coding a couple years ago but life demanded my attention else where. Thankful to be here and able to study this exciting trade once again!
 
 * 🌍  I'm based in Central Florida
 * ✉️  You can contact me at [dmarrero98@gmail.com](mailto:dmarrero98@gmail.com)
