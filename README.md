@@ -5,13 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Science Major
 -----------------
-I began to learn coding in Fall of 2022 and discovered a passion. This will eventually be my career, so I am relentlessly seeking out knowledge to sharpen my skills every day.
+Air Force Vet actively pursuing a CS Major!
 
 * 🌍  I'm based in Central Florida
 * ✉️  You can contact me at [dmarrero98@gmail.com](mailto:dmarrero98@gmail.com)
-* 🧠  I'm currrently learning Java
-* 🤝  I'm open to collaborating on AI projects with python
-* 🚀  I'm currently developing a pygame
+* 🧠  I'm currrently learning Python and Java.
+* 🤝  I'm open to collaborating on Python projects anytime!
+* 🚀  I'm currently taking an Intro to Programming course.
 
 ![SpaceArena_screenshot](https://user-images.githubusercontent.com/113640192/221083178-a43fb9a9-659a-4d6c-88ce-6522df9944f1.png)
 
