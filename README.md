@@ -3,15 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![mix-mob-tv-games](https://user-images.githubusercontent.com/113640192/217401417-9ca85104-b2a1-4eb5-9d07-d76dbed593d8.gif)
 
 
-Computer Science Major
+Cloud Computing Major
 -----------------
-Air Force Vet actively pursuing a CS Major! Started to teach myself coding a couple years ago but life demanded my attention else where. Thankful to be here and able to study this exciting trade once again!
+Studying for the CCNA currently and will be posting labs I've completed as I go along. I've also left up some of my old python projects as well. I plan to use my foundation in python to get deep into networking automation. 
 
 * 🌍  I'm based in Central Florida
 * ✉️  You can contact me at [dmarrero98@gmail.com](mailto:dmarrero98@gmail.com)
-* 🧠  I'm currrently learning Python and Java.
-* 🤝  I'm open to collaborating on Python projects anytime!
-* 🚀  I'm currently taking an Intro to Programming course.
+* 🧠  CCNA
+* 🤝  Open to net admin, sys admin, or IT specialist roles.
+
 
 ![SpaceArena_screenshot](https://user-images.githubusercontent.com/113640192/221083178-a43fb9a9-659a-4d6c-88ce-6522df9944f1.png)
 
