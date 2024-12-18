@@ -25,9 +25,10 @@ Studying for the CCNA currently and will be posting labs I've completed as I go 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dmarrero98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dillan-marrero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/dmarrero98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmarrero98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dmarrero98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dmarrero98&stroke=6366f1&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=6366f1&currStreakLabel=14b8a6&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+<a href="www.linkedin.com/in/dmarrero98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dmarrero98&stroke=6366f1&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=6366f1&currStreakLabel=14b8a6&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
