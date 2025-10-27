@@ -1,16 +1,16 @@
-# <a href="https://www.linkedin.com/in/dmarrero98/">Dillan Marrero's</a>'s Cybersecurity Project Portfolio 
+# <a href="https://www.linkedin.com/in/dmarrero98/">Dillan Marrero's</a> Cybersecurity Project Portfolio 
 
 I’m passionate about cybersecurity and thrive on solving complex challenges in a Security Operations Center environment. My hands-on projects span areas such as threat detection, incident response, and vulnerability management—each designed to strengthen security operations and improve organizational resilience. Feel free to explore my work and see how I’ve applied analytical thinking and technical expertise to enhance SOC processes and defense capabilities!
 
-
+<!--
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
+-->
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Exposed Virtual Machine)](https://github.com/dmarrero98/MDE-bruteforce-investigation.git)**
 
 <hr/>
 
