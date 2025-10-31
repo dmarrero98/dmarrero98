@@ -11,6 +11,7 @@ I’m passionate about cybersecurity and thrive on solving complex challenges in
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Exposed Virtual Machine)](https://github.com/dmarrero98/MDE-bruteforce-investigation.git)**
+- **[Threat Hunting Scenario (Unauthorized Tor (Dark Web Browser) Usage)](https://github.com/dmarrero98/threat-hunting-scenario-tor)**
 
 <hr/>
 
