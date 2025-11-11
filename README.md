@@ -17,7 +17,7 @@ I’m passionate about cybersecurity and thrive on solving complex challenges in
 
 ## 🛡️ Programmatic STIG Compliance
 
-- **[Windows 11 STIG Remediations](https://github.com/dmarrero98/STIG-Programmatic-Hardening/tree/main)**
+- **[Windows 11 STIG Implementations](https://github.com/dmarrero98/STIG-Programmatic-Hardening/tree/main)**
 
 <hr/>
 
