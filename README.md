@@ -15,7 +15,7 @@ I’m passionate about cybersecurity and thrive on solving complex challenges in
 - **[Threat Hunting Scenario (Unauthorized Tor (Dark Web Browser) Usage)](https://github.com/dmarrero98/threat-hunting-scenario-tor)**
 - **[threat-hunt-scenario-TechSupportTrap](https://github.com/dmarrero98/threat-hunt-scenario-TechSupportTrap/tree/main)**
 
-## 🛡️ STIG Compliance
+## 🛡️ Programmatic STIG Compliance
 
 - **[Windows 11 STIG Remediations](https://github.com/dmarrero98/STIG-Programmatic-Hardening/tree/main)**
 
